@@ -2,8 +2,6 @@
 
 ### Getting Setup
 
-> _tip_: this frontend is designed to work with [Flask-based Backend](../backend). It is recommended you stand up the backend first, test using Postman or curl, update the endpoints in the frontend, and then the frontend should integrate smoothly.
-
 ### Installing Dependencies
 
 1. **Installing Node and NPM**<br>
@@ -14,10 +12,6 @@ This project uses NPM to manage software dependencies. NPM Relies on the package
 ```bash
 npm install
 ```
->_tip_: **npm i** is shorthand for **npm install**
-
-# Required Tasks
-
 ### Running Your Frontend in Dev Mode
 
 The frontend app was built using create-react-app. In order to run the app in development mode use ```npm start```. You can change the script in the ```package.json``` file. 
@@ -27,19 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. T
 ```bash
 npm start
 ```
-
-### Request Formatting
-
-The frontend should be fairly straightforward and disgestible. You'll primarily work within the ```components``` folder in order to understand, and if you so choose edit, the endpoints utilized by the components. While working on your backend request handling and response formatting, you can reference the frontend to view how it parses the responses. 
-
-After you complete your endpoints, ensure you return to the frontend to confirm your API handles requests and responses appropriately: 
-- Endpoints defined as expected by the frontend
-- Response body provided as expected by the frontend 
-
-### Optional: Updating Endpoints and API behavior
-
-Would you rather the API had different behavior - different endpoints, return the response body in a different format? Go for it! Make the updates to your API and the corresponding updates to the frontend so it works with your API seamlessly. 
-
 
 ### Optional: Styling
 
