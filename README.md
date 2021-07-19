@@ -24,6 +24,7 @@ Once the virtual environment setup and running, then the dependencies can be ins
 This will install all the reuired packages that I have selecteed within the requirements.txt file.
 
 ## Main Files: Project Structure
+```
 
 ├── README.md
 ├── [backend]
@@ -41,7 +42,7 @@ This will install all the reuired packages that I have selecteed within the requ
 ├── src
 ├── README.md
 |**
-
+```
 ## Database Setup
 
 With Postgres running,restore the database.
