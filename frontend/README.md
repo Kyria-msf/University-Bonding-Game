@@ -36,9 +36,6 @@ You can optionally update this game play to increase the number of questions or 
 
 >**Spoiler Alert:** If needed, there are details below regarding the expected endpoints and behavior. But, ONLY consult there if necessary, so you give yourself the opportunity to practice understanding code!
 
-# DO NOT PROCEED: ENDPOINT SPOILERS
->Only read the below to confirm your notes regarding the expected API endpoint behavior based on reading the frontend codebase. 
-
 
 **Here are the expected endpoints and behavior**:
 
