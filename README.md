@@ -55,7 +55,7 @@ In the backend directory, execute:
 ```
 set FLASK_APP=myapp
 set FLASK_ENV=development # enables debug mode
-python3 app.py
+python3 flask run
 ```
 
 ## API
